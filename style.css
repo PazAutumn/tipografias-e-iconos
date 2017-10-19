@@ -1,1 +1,50 @@
+div {
+	width: 200px;
+	height: auto;
+	margin-top: 20px;
+	margin-left: 6px;
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	background-color: #F2F2F2FF;
+	font-family: 'Lobster', cursive;
+	text-align: center;
+	color: gray;
+	float: left;
+	border-right: 2px solid #E2E2E2FF;
+	border-bottom: 2px solid #E2E2E2FF;
+}
 
+div:hover {
+	font-family: 'Pacifico', cursive;
+	font-size: 18px;
+	color: #C9C9C9FF;
+	background-color: #FFFFFFFF;
+	cursor: pointer;
+	border-right: 2px solid #EAEAEAFF;
+	border-bottom: 2px solid #EAEAEAFF;
+}
+
+div p {
+	font-size: 10px;
+}
+
+.icon-monitor {
+	font-size: 60px;
+}
+
+.icon-coffee {
+	font-size: 60px;
+}
+
+.icon-cake {
+	font-size: 60px;
+}
+
+.icon-spaceinvaders {
+	font-size: 60px;
+}
+
+.icon-microphone {
+	font-size: 60px;
+}
